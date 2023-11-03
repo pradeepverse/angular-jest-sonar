@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="4.269">
+  <testsuite name="AppComponent" errors="0" failures="0" skipped="0" timestamp="2023-11-03T06:03:21" time="3.045" tests="3">
+    <testcase classname="AppComponent should create the app" name="AppComponent should create the app" time="0.183">
+    </testcase>
+    <testcase classname="AppComponent should have as title &apos;angular-sonar-demo&apos;" name="AppComponent should have as title &apos;angular-sonar-demo&apos;" time="0.031">
+    </testcase>
+    <testcase classname="AppComponent should render title" name="AppComponent should render title" time="0.04">
+    </testcase>
+  </testsuite>
+</testsuites>
